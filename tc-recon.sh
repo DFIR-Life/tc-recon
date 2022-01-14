@@ -2,7 +2,7 @@
 
 #setup
 DOMAIN=$1
-DIRECTORY=$1_recon
+DIRECTORY=./tc-recon-out
 
 
 TODAY=$(date) 
